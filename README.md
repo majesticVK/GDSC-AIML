@@ -1,6 +1,12 @@
 # GDSC-AIML
 Projects and resources for GDG AI/ML
 
+<span>
+  <img src="https://static.vecteezy.com/system/resources/previews/008/216/725/original/deep-learning-word-concepts-blue-banner-neural-network-machine-learning-infographics-with-icons-on-color-background-isolated-typography-illustration-with-text-vector.jpg" width="50%" height="300" />
+
+  <img src="https://github.com/user-attachments/assets/cd9cd8f8-3749-4b45-a4dc-60dcd7207dc2?raw=true" height="300" />
+</span>
+
 ## How to submit your projects:
 - To begin, fork this repository. This creates a copy of this repository in your github account.
 - Clone the forked repository. Go to code section of your repo and copy the HTTPS Link in your clipboard.
